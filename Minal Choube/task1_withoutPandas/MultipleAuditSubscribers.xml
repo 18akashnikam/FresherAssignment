@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<Audit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+	<auditSubscribers>
+		<MSIDN>MSISDN</MSIDN>
+		<OperationType>OperationType</OperationType>
+		<ServiceIndication>ServiceIndication</ServiceIndication>
+	</auditSubscribers>
+	<auditSubscribers>
+		<MSIDN>11234567890</MSIDN>
+		<OperationType>DELETE</OperationType>
+		<ServiceIndication>VM_SUBPROFILE</ServiceIndication>
+	</auditSubscribers>
+	<auditSubscribers>
+		<MSIDN>11234567893</MSIDN>
+		<OperationType>ADD</OperationType>
+		<ServiceIndication>VM_SUBPROFILE</ServiceIndication>
+	</auditSubscribers>
+	<auditSubscribers>
+		<MSIDN>11234567894</MSIDN>
+		<OperationType>DELETE</OperationType>
+		<ServiceIndication>VM_SUBPROFILE</ServiceIndication>
+	</auditSubscribers>
+	<auditSubscribers>
+		<MSIDN>11234567895</MSIDN>
+		<OperationType>ADD</OperationType>
+		<ServiceIndication>VM_SUBPROFILE</ServiceIndication>
+	</auditSubscribers>
+	<auditSubscribers>
+		<MSIDN>11234567897</MSIDN>
+		<OperationType>DELETE</OperationType>
+		<ServiceIndication>VM_SUBPROFILE</ServiceIndication>
+	</auditSubscribers>
+</Audit>

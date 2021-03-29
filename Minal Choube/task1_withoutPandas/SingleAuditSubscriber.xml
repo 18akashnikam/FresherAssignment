@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Audit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+	<auditSubscribers>
+		<MSIDN>MSISDN</MSIDN>
+		<OperationType>OperationType</OperationType>
+		<ServiceIndication>ServiceIndication</ServiceIndication>
+	</auditSubscribers>
+</Audit>
